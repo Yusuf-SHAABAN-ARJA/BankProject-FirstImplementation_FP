@@ -35,7 +35,7 @@ A command-line Bank Management System built in C++ using **Functional Programmin
 ![Client List](Images/ClientsList.png)
 
 ### 3. Add New Client Screen
-![Add Client](Images/AddingClient.png)
+![Add Client](Images/AddintClient.png)
 
 ### 4. Update Client Information
 ![Update Client](Images/UpdatingClient.png)
