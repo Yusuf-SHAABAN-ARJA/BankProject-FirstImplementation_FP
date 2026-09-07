@@ -5,7 +5,7 @@
 #include<conio.h>
 #include<cctype>
 #include<stirng>
-#include"MyLib.h";
+#include"MyLib.h"
 using namespace std;
 enum enScreens { enShowClientScreen = 1, enAddNewClient = 2, enDeleteClient = 3, enUpdateClient = 4, enFindClient = 5, enExit = 6 };
 const string ClientsFileName = "Clients.txt";
